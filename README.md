@@ -1,6 +1,6 @@
-#Here's how to...  
+# Here's how to...  
 
-#Tabs  
+# Tabs  
 There's three tabs ( Container , Items , Display )  
 Simply click on a Tab name to Open it  
 You can also Rearrange the Tabs by dragging them left or right  
