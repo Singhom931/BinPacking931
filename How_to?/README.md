@@ -36,5 +36,9 @@ Simply Click on a Theme to Apply it
 Click on VS Code to Open VS Code Theme Section  
 Click on Modern to go back to Mordern Section  
 
-Click on Windows or Fusion to use Windows or Fusion Style along with your Theme
+Click on Windows or Fusion to use Windows or Fusion Style along with your Theme  
 
+#Save and Load  
+Click on Save As to Save your Data in Desired Location with a Name  
+Once you used Save As You can Simply use Save to overwrite your Previous Save with New One  
+Click on Open to Load up Previously Saved Data 
